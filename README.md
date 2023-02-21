@@ -11,4 +11,4 @@ first you can clone this repo
 ```
 git clone git@github.com:mizzcode/calculator.git
 ```
-then you open your browser
+then open in your browser
